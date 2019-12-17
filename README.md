@@ -1,4 +1,5 @@
- compileSdkVersion 23
+    
+    compileSdkVersion 23
     buildToolsVersion "23.0.3"
 
     defaultConfig {
